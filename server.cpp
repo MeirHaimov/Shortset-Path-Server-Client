@@ -1,5 +1,4 @@
-// Authors:  Meir Haimov, Adi Vaizman.
-// ID's: 207910787, 212555726
+
 #include <arpa/inet.h>
 #include <iostream>
 #include <map>
